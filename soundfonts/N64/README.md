@@ -6,4 +6,4 @@ I've put them here, for having a central place to collectively make adjustments 
 
 ### Legal
 
-Since these file are part of games, you are only allowed to download and use them, if you are owner of the corresponding game. I dont own any rights on these files. Copyright to Nintendo, their respective development companies and whoever else claims rights. In case I'm hurting anyones rights, let me know.
+Since these files are part of games, you are only allowed to download and use them, if you are owner of the corresponding game. I dont own any rights on these files. Copyright to Nintendo, their respective development companies and whoever else claims rights. In case I'm hurting anyones rights, let me know.
