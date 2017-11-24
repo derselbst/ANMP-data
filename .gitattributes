@@ -1,0 +1,2 @@
+*.bin binary diff=bin
+*.sf2 binary diff=hex
